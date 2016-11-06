@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It tells git to start potentially tracking things in that folder. You need to do it to begin using git - to set everything up.
+
