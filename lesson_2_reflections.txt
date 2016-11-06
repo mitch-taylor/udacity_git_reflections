@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It tells git to start potentially tracking things in that folder. You need to do it to begin using git - to set everything up.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area includes those files which will be tracked but have not yet been comitted. It delineates the files we want to track and have changed from those which are unchanged or untracked.
