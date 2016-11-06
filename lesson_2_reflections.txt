@@ -17,3 +17,7 @@ When there are logical reasons to diverge from the master version of a project. 
 How do the diagrams help you visualize the branch structure?
 
 The diagrams show where branches split from the main tree. They help ALOT.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines all the changes on both branches into one file.
