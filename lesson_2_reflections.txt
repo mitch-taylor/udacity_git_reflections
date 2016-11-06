@@ -5,3 +5,7 @@ It tells git to start potentially tracking things in that folder. You need to do
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area includes those files which will be tracked but have not yet been comitted. It delineates the files we want to track and have changed from those which are unchanged or untracked.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding each logical change to the staging area each time you can break up work.
