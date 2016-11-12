@@ -5,3 +5,9 @@ Because it allows you to have a back up as well as access your code from other c
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because you have more control and can make things public only when you're ready
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are only on github and are useful for copying someone else's code you want to use/work on.
+Branches definitely exist locally and may exist remotely and are useful if you want to split off the main code and work on something new but related.
+Clones are replicas of a repository. Can clone from github to local or local to local.
