@@ -15,3 +15,7 @@ Clones are replicas of a repository. Can clone from github to local or local to 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It means you don't need an internet connection to work with the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Would have to communicate clearly in order to avoid errors. Hard to work on things simultaneously. Less learning curve for git.
