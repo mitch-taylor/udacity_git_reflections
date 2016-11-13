@@ -19,3 +19,7 @@ It means you don't need an internet connection to work with the remote.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Would have to communicate clearly in order to avoid errors. Hard to work on things simultaneously. Less learning curve for git.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If you're working on something new and don't want to introduce to the main production code yet. It maintains separate yet connected project spaces.
