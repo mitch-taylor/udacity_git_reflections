@@ -23,5 +23,3 @@ Would have to communicate clearly in order to avoid errors. Hard to work on thin
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
 If you're working on something new and don't want to introduce to the main production code yet. It maintains separate yet connected project spaces.
-
-test
